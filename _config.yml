@@ -1,7 +1,6 @@
 ---
 title: source-test
 timezone: UTC
-repository: mikabusante/source-test
 collections:
   posts:
     title: Posts
@@ -21,4 +20,5 @@ defaults:
     type: pages
   values:
     layout: page
+repository: mikabusante/source-test
 permalink: pretty
