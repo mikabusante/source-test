@@ -1,6 +1,7 @@
 ---
 title: source-test
 timezone: UTC
+repository: mikabusante/source-test
 collections:
   posts:
     title: Posts
