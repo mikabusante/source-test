@@ -1,6 +1,7 @@
 ---
 title: The Mock Turtle’s Story
 date: 2020-07-08 19:51:00 Z
+path: "/the-mock-turtles-story"
 ---
 
  “You can’t think how glad I am to see you again, you dear old thing!” said the Duchess, as she tucked her arm affectionately into Alice’s, and they walked off together.
